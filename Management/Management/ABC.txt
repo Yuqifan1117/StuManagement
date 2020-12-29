@@ -1,0 +1,6 @@
+ID£º
+ABC
+Password£º
+123
+stuID£º
+2017010753
