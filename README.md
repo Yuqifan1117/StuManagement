@@ -20,3 +20,8 @@
 - 且多个用户可以进行借书，即其他人借了书，另一个用户登录还可以借
 - 用户所借的书与用户一一对应起来，保存在BookBorrowedRecord.txt
 - 书籍信息以及状态保存在BookRecord.txt
+
+## screens
+![sc1](./Management/sc1.png)
+
+![sc2](./Management/sc2.png)
